@@ -1,0 +1,1 @@
+使用Python获取Bing的每日壁纸的一个简单的API
